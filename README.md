@@ -2,6 +2,8 @@
 
 This is a simple Task Management App built using React.js, Redux Toolkit, and Tailwind CSS. The app allows users to create, view, update, and delete tasks. Additionally, users can mark tasks as complete or pending and filter tasks based on their status.
 
+### Deployed Link: https://task-management-app-ten-ashy.vercel.app/
+
 ## Features
 
 - **Task CRUD Operations:** Create, read, update, and delete tasks.
